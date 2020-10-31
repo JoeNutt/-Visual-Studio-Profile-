@@ -1,0 +1,19 @@
+{
+  "name": "visualstudioprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeNutt/-Visual-Studio-Profile-.git"
+  },
+  "author": "Joseph-Nutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeNutt/-Visual-Studio-Profile-/issues"
+  },
+  "homepage": "https://github.com/JoeNutt/-Visual-Studio-Profile-#readme"
+}
